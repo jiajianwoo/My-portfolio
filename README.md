@@ -1,5 +1,5 @@
-# My-portfolio
-Data science portfolio
+# Portfolio
+
 ## [Analysing Tripadvisor Reviews](https://github.com/jiajianwoo/Analysing-museum-reviews-on-Tripadvisor/blob/main/BM%20reviews.ipynb)
 * Web scrap British Museum reviews from Tripadvisor
 * Perform sentiment analysis
