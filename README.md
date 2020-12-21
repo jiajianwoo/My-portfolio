@@ -32,21 +32,21 @@ To improve visitor experience, the museum can work on improving how the exhibiti
 
 
 
-## [Predicting Cancellation of Hotel Reservations](https://rpubs.com/jiajianwoo95/706491)
+## [Predicting Cancellation of Hotel Reservations](https://rpubs.com/jiajianwoo95/706496)
 * Analysed guest visits at a city hotel and a resort
 * Analysed reservation cancellation behaviour
 * Built a model to predict whether guests would cancel their reservations
 
 
-<img src="image/Screenshot%202020-12-21%20at%2016.39.36.png" alt="drawing" width="250" />
+<img src="image/Screenshot%202020-12-21%20at%2016.39.36.png" alt="drawing" width="600" />
 
 Significant proportion of guests cancelled their hotel reservations.
 
-<img src="image/Screenshot%202020-12-21%20at%2016.56.20.png" alt="drawing" width="250" />
+<img src="image/Screenshot%202020-12-21%20at%2016.56.20.png" alt="drawing" width="600" />
 
 People from some countries are more likely to cancel their reservations compared to other countries.
 
-<img src="image/Screenshot%202020-12-21%20at%2016.56.30.png" alt="drawing" width="250" />
+<img src="image/Screenshot%202020-12-21%20at%2016.56.30.png" alt="drawing" width="600" />
 
 The above graph compares the predictions made by the models on the number of cancellations every day with the actual number.
 
