@@ -12,7 +12,7 @@ Data science portfolio
 <img src="https://github.com/jiajianwoo/My-portfolio/blob/main/image/Screenshot%202020-12-21%20at%2015.46.46.png" alt="drawing" width="600"/>
 
 * Upon topic modelling on positive reviews, the following are the words used in each of two topics.
-<img src="https://github.com/jiajianwoo/My-portfolio/blob/main/image/Screenshot%202020-12-21%20at%2015.47.00.png" alt="drawing" width="600"/>
+<img src="https://github.com/jiajianwoo/My-portfolio/blob/main/image/Screenshot%202020-12-21%20at%2015.47.00.png" alt="drawing" width="450"/>
 
 * Words used in negative reviews.
-<img src="https://github.com/jiajianwoo/My-portfolio/blob/main/image/Screenshot%202020-12-21%20at%2015.46.18.png" alt="drawing" width="600"/>
+<img src="https://github.com/jiajianwoo/My-portfolio/blob/main/image/Screenshot%202020-12-21%20at%2015.46.18.png" alt="drawing" width="250"/>
