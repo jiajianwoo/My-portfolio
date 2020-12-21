@@ -26,6 +26,6 @@ The collections displayed in the permanent collection, e.g. items in the Egyptia
 
 <img src="image/Screenshot%202020-12-21%20at%2015.46.18.png" alt="drawing" width="250" />
 
-Looking at the topic modelling results, it seems like the negative reviews revolves around only one topic. The negative reviews were mostly about the exhibitions and the crowds. The imperialist controversies around British Museum, primarily its acquisition of items of like the Elgin Marbles and the Rosetta Stone were not mentioned as frequently in the reviews.
+Looking at the topic modelling results, it seems like the negative reviews revolved around only one topic. The negative reviews were mostly about the exhibitions and the crowds. The imperialist controversies around British Museum, primarily its acquisition of items of like the Elgin Marbles and the Rosetta Stone were not mentioned as frequently in the reviews.
 
 To improve visitor experience, the museum can work on improving how the exhibitions are organised and crowd management.
