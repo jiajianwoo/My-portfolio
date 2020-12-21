@@ -6,7 +6,7 @@ Data science portfolio
 * Perform topic modelling to gain insights on visitor reviews
 
 * Word cloud representing the words used in positive reviews left by visitors:
-<img src="https://github.com/jiajianwoo/My-portfolio/blob/main/image/Screenshot%202020-12-21%20at%2015.46.37.png" alt="drawing" width="600" />
+<img src="image/Screenshot%202020-12-21%20at%2015.46.18.png" alt="drawing" width="600" />
 
 * Word cloud representing the words used in negative reviews left by visitors:
 <img src="https://github.com/jiajianwoo/My-portfolio/blob/main/image/Screenshot%202020-12-21%20at%2015.46.46.png" alt="drawing" width="600" />
