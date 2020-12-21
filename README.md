@@ -1,9 +1,9 @@
 # Portfolio
 
 ## [Analysing Tripadvisor Reviews](https://github.com/jiajianwoo/Analysing-museum-reviews-on-Tripadvisor/blob/main/BM%20reviews.ipynb)
-* Web scrap British Museum reviews from Tripadvisor
-* Perform sentiment analysis
-* Perform topic modelling to gain insights on visitor reviews
+* Web scraped British Museum reviews from Tripadvisor
+* Performed sentiment analysis
+* Performed topic modelling to gain insights on visitor reviews
 
 * **Word cloud representing the words used in positive reviews left by visitors:**
 
@@ -29,6 +29,28 @@ The collections displayed in the permanent collection, e.g. items in the Egyptia
 Looking at the topic modelling results, it seems like the negative reviews revolved around only one topic. The negative reviews were mostly about the exhibitions and the crowds. The imperialist controversies around British Museum, primarily its acquisition of items of like the Elgin Marbles and the Rosetta Stone were not mentioned as frequently in the reviews.
 
 To improve visitor experience, the museum can work on improving how the exhibitions are organised and crowd management.
+
+
+
+## [Analysing Booking.com Reviews](https://github.com/jiajianwoo/text-mining-hotel/blob/main/Booking%20text%20mining-2.ipynb)
+* Web scraped reviews of a hotel in Kuala Lumpur from Booking.com
+* Performed sentiment analysis
+* Performed topic modelling to gain insights on guest reviews to explore issues that can be addressed to improve guest satisfaction
+
+* **Word cloud representing the words used in positive reviews left by guests:**
+
+<img src="image/Screenshot%202020-12-21%20at%2022.41.16.png" alt="drawing" width="600" />
+
+* **Word cloud representing the words used in negative reviews left by guests:**
+
+<img src="image/Screenshot%202020-12-21%20at%2022.41.33.png" alt="drawing" width="600" />
+
+* **Words used in negative reviews:**
+
+<img src="image/Screenshot%202020-12-21%20at%2022.42.13.png" alt="drawing" width="600" />
+
+This should give the hotel's management some insights on what their guests were mostly unsatisfied about: parking, staff, breakfast and room condition/cleanliness. The management should still look at the detail reviews to see exactly what improvements are needed.
+
 
 
 
