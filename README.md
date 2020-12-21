@@ -48,6 +48,6 @@ People from some countries are more likely to cancel their reservations compared
 
 <img src="image/Screenshot%202020-12-21%20at%2016.56.30.png" alt="drawing" width="600" />
 
-The above graph compares the predictions made by the models on the number of cancellations every day with the actual number.
+The above graph compares the predictions made by the model on the number of cancellations every day with the actual number.
 
 
