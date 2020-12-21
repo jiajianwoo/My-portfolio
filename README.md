@@ -13,7 +13,7 @@ Data science portfolio
 
 <img src="image/Screenshot%202020-12-21%20at%2015.46.46.png" alt="drawing" width="600" />
 
-* **Upon topic modelling on positive reviews, the following are the words used in each of two topics.**
+* **Upon topic modelling on positive reviews, the following are the words used in each of two topics:**
 
 <img src="image/Screenshot%202020-12-21%20at%2015.47.00.png" alt="drawing" width="450" />
 
@@ -22,7 +22,7 @@ Positive reviews of the museum were mainly about 2 topics: its temporary exhibit
 The collections displayed in the permanent collection, e.g. items in the Egyptian gallery and the Rosetta Stone were mentioned frequently in the positive reviews, as well as the fact that its entrance is free of charge.
 
 
-* **Words used in negative reviews.**
+* **Words used in negative reviews:**
 
 <img src="image/Screenshot%202020-12-21%20at%2015.46.18.png" alt="drawing" width="250" />
 
