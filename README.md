@@ -1,6 +1,6 @@
 # Portfolio
 
-## [Analysing Tripadvisor Reviews](https://github.com/jiajianwoo/Analysing-museum-reviews-on-Tripadvisor/blob/main/BM%20reviews.ipynb)
+## [Analysing Tripadvisor Reviews (Python)](https://github.com/jiajianwoo/Analysing-museum-reviews-on-Tripadvisor/blob/main/BM%20reviews.ipynb)
 * Web scraped British Museum reviews from Tripadvisor
 * Performed sentiment analysis
 * Performed topic modelling to gain insights on visitor reviews
@@ -36,7 +36,7 @@ To improve visitor experience, the museum can work on improving how the exhibiti
 
 
 
-## [Analysing Booking.com Reviews](https://github.com/jiajianwoo/text-mining-hotel/blob/main/Booking%20text%20mining-2.ipynb)
+## [Analysing Booking.com Reviews (Python)](https://github.com/jiajianwoo/text-mining-hotel/blob/main/Booking%20text%20mining-2.ipynb)
 * Web scraped reviews of a hotel in Kuala Lumpur from Booking.com
 * Performed sentiment analysis
 * Performed topic modelling to gain insights on guest reviews to explore issues that can be addressed to improve guest satisfaction
@@ -62,7 +62,7 @@ This should give the hotel's management some insights on what their guests were 
 
 
 
-## [Predicting Cancellation of Hotel Reservations](https://rpubs.com/jiajianwoo95/706496)
+## [Predicting Cancellation of Hotel Reservations (R)](https://rpubs.com/jiajianwoo95/706496)
 * Analysed guest visits at a city hotel and a resort
 * Analysed reservation cancellation behaviour
 * Built a model to predict whether guests would cancel their reservations
