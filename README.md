@@ -5,6 +5,10 @@
 * Performed sentiment analysis
 * Performed topic modelling to gain insights on visitor reviews
 
+* **Distribution of positive and negative reviews:**
+
+<img src="image/Screenshot%202020-12-22%20at%2012.12.27.png" alt="drawing" width="500" />
+
 * **Word cloud representing the words used in positive reviews left by visitors:**
 
 <img src="image/Screenshot%202020-12-21%20at%2015.46.37.png" alt="drawing" width="600" />
@@ -36,6 +40,10 @@ To improve visitor experience, the museum can work on improving how the exhibiti
 * Web scraped reviews of a hotel in Kuala Lumpur from Booking.com
 * Performed sentiment analysis
 * Performed topic modelling to gain insights on guest reviews to explore issues that can be addressed to improve guest satisfaction
+
+* **Distribution of positive and negative reviews:**
+
+<img src="image/Screenshot%202020-12-22%20at%2012.12.40.png" alt="drawing" width="500" />
 
 * **Word cloud representing the words used in positive reviews left by guests:**
 
