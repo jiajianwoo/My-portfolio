@@ -1,5 +1,18 @@
 # Portfolio
 
+## [Analysing and Predicting Customer Churn in Telcom](https://github.com/jiajianwoo/telco_churn/blob/main/telco%20churn.ipynb)
+* Dataset from Kaggle: https://www.kaggle.com/blastchar/telco-customer-churn
+
+All analysis was based only on this dataset. It seems that churn rate was lower among customers who subscribed for extra services like streaming TV, streaming movies, online backup, online security, tech support etc. Higher churn rate was also observed for newer customers, customers who paid monthly (instead of paying annually), senior citizens and customers with no partners/dependents.
+
+* **Churn rate is the highest among new customers (<3 months).**
+<img src="image/Screenshot%202021-01-10%20at%2017.15.19.png" alt="drawing" width="500" />
+
+* **ROC curve of the logistic regression model built**
+<img src="image/Screenshot%202021-01-10%20at%2017.14.45.png" alt="drawing" width="500" />
+
+
+
 ## [Analysing Tripadvisor Reviews (Python)](https://github.com/jiajianwoo/Analysing-museum-reviews-on-Tripadvisor/blob/main/BM%20reviews.ipynb)
 * Web scraped British Museum reviews from Tripadvisor
 * Performed sentiment analysis
