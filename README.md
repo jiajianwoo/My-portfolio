@@ -1,6 +1,6 @@
 # Portfolio
 
-**Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/] **
+Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://public.tableau.com/profile/jia.jian.woo#!/)
 
 ## [Analysing and Predicting Customer Churn in Telcom](https://github.com/jiajianwoo/telco_churn/blob/main/telco%20churn.ipynb)
 * Dataset from Kaggle: https://www.kaggle.com/blastchar/telco-customer-churn
