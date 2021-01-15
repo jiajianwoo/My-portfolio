@@ -2,7 +2,7 @@
 
 Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://public.tableau.com/profile/jia.jian.woo#!/)
 
-## [Analysing and Predicting Marvel Comic Character Network](https://github.com/jiajianwoo/marvel_network/blob/main/Marvel%20character%20network.ipynb)
+## [Analysing and Predicting Marvel Comic Character Network (Python)](https://github.com/jiajianwoo/marvel_network/blob/main/Marvel%20character%20network.ipynb)
 * Data containing network of characters who have appeared together was obtained from [http://syntagmatic.github.io/exposedata/marvel/](http://syntagmatic.github.io/exposedata/marvel/)
 
 * **A small subset of the graph.**
@@ -20,7 +20,7 @@ A logistic regression and a neural network model was also built to try to predic
 
 
 
-## [Analysing and Predicting Customer Churn in Telcom](https://github.com/jiajianwoo/telco_churn/blob/main/telco%20churn.ipynb)
+## [Analysing and Predicting Customer Churn in Telcom (Python)](https://github.com/jiajianwoo/telco_churn/blob/main/telco%20churn.ipynb)
 * Dataset from Kaggle: https://www.kaggle.com/blastchar/telco-customer-churn
 
 All analysis was based only on this dataset. It seems that churn rate was lower among customers who subscribed for extra services like streaming TV, streaming movies, online backup, online security, tech support etc. Higher churn rate was also observed for newer customers, customers who paid monthly (instead of paying annually), senior citizens and customers with no partners/dependents.
