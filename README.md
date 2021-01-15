@@ -6,7 +6,7 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 * Data containing network of characters who have appeared together was obtained from [http://syntagmatic.github.io/exposedata/marvel/](http://syntagmatic.github.io/exposedata/marvel/)
 
 * **A small subset of the graph.**
-<img src="image/graph_sample.png" alt="drawing" width="500" />
+<img src="image/graph_sample-2.png" alt="drawing" width="500" />
 
 * **Distribution of number of characters each character has appeared together with.**
 <img src="image/Screenshot%202021-01-15%20at%2015.11.55.png" alt="drawing" width="500" />
