@@ -9,7 +9,7 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 <img src="image/graph_sample.png" alt="drawing" width="500" />
 
 * **Distribution of number of characters each character has appeared together with.**
-<img src="image/Screenshot%202021-01-15%20at%2015.11.55.png.png" alt="drawing" width="500" />
+<img src="image/Screenshot%202021-01-15%20at%2015.11.55.png" alt="drawing" width="500" />
 
 The network seems to be not random and is likely to form following a preferential attachment process where a more highly connected node is more likely to get even more connections.
 
