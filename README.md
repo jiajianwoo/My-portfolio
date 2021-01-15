@@ -2,6 +2,24 @@
 
 Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://public.tableau.com/profile/jia.jian.woo#!/)
 
+## [Analysing and Predicting Marvel Comic Character Network](https://github.com/jiajianwoo/marvel_network/blob/main/Marvel%20character%20network.ipynb)
+* Data containing network of characters who have appeared together was obtained from [http://syntagmatic.github.io/exposedata/marvel/](http://syntagmatic.github.io/exposedata/marvel/)
+
+* **A small subset of the graph.**
+<img src="image/graph_sample.png" alt="drawing" width="500" />
+
+* **Distribution of number of characters each character has appeared together with.**
+<img src="image/Screenshot%202021-01-15%20at%2015.11.55.png.png" alt="drawing" width="500" />
+
+The network seems to be not random and is likely to form following a preferential attachment process where a more highly connected node is more likely to get even more connections.
+
+The character with the highest degree (character who has appeared with other characters the most time) is Captain America. This is a subset of the Captain America subset of the graph:
+<img src="image/graph_captainamerica.png" alt="drawing" width="500" />
+
+A logistic regression and a neural network model was also built to try to predict new edge formation. This can tell us, for new characters, which character they will most likely to appear together with.
+
+
+
 ## [Analysing and Predicting Customer Churn in Telcom](https://github.com/jiajianwoo/telco_churn/blob/main/telco%20churn.ipynb)
 * Dataset from Kaggle: https://www.kaggle.com/blastchar/telco-customer-churn
 
