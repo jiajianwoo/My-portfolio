@@ -6,15 +6,15 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 * Data containing network of characters who have appeared together was obtained from [http://syntagmatic.github.io/exposedata/marvel/](http://syntagmatic.github.io/exposedata/marvel/)
 
 * **A small subset of the graph.**
-<img src="image/graph_sample-2.png" alt="drawing" width="500" />
+<img src="image/graph_sample-2.png" alt="drawing" width="400" />
 
 * **Distribution of number of characters each character has appeared together with.**
-<img src="image/Screenshot%202021-01-15%20at%2015.11.55.png" alt="drawing" width="500" />
+<img src="image/Screenshot%202021-01-15%20at%2015.11.55.png" alt="drawing" width="400" />
 
 The network seems to be not random and is likely to form following a preferential attachment process where a more highly connected node is more likely to get even more connections.
 
 The character with the highest degree (character who has appeared with other characters the most time) is Captain America. This is a subset of the Captain America subset of the graph:
-<img src="image/graph_captainamerica.png" alt="drawing" width="500" />
+<img src="image/graph_captainamerica.png" alt="drawing" width="650" />
 
 A logistic regression and a neural network model was also built to try to predict new edge formation. This can tell us, for new characters, which character they will most likely to appear together with.
 
