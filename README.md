@@ -8,8 +8,8 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 * **Actual vs. predicted closing price.**
 <img src="image/Screenshot%202021-01-26%20at%2013.29.35.png" width="500" />
 
-* Another model based on LSTM autoencoder was also trained to detect anomaly on closing prices.
-<img src="image/Screenshot%202021-01-26%20at%2013.30.26.png" width="500" />
+* **Another model based on LSTM autoencoder was also trained to detect anomaly on closing prices.**
+<img src="image/Screenshot%202021-01-26%20at%2013.30.26.png" width="400" />
 
 * Red points denote anomalies. The model treats abnormally high closing prices are anomalies.
 
