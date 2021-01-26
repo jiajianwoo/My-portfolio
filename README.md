@@ -8,7 +8,9 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 * **Actual vs. predicted closing price.**
 <img src="image/Screenshot%202021-01-26%20at%2013.46.16.png" width="400" />
 
-* **Another model based on LSTM autoencoder was also trained to detect anomaly on closing prices.**
+* Mean squared error is 1356.03.
+
+* **Another model based on LSTM autoencoder was also trained to detect closing price anomalies.**
 <img src="image/Screenshot%202021-01-26%20at%2013.46.05.png" width="450" />
 
 * Red points denote anomalies. In general, the model treats abnormally high closing prices and abrupt changes as anomalies.
