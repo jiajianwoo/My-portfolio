@@ -3,7 +3,7 @@
 Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://public.tableau.com/profile/jia.jian.woo#!/)
 
 ## [KLSE Closing Price Prediction and Anomaly Detection Using Deep Learning (Python)](https://github.com/jiajianwoo/LSTM-KLSI/blob/main/LSTM%20KLSE.ipynb)
-* An RNN model based on LSTM was trained to predict KLSI daily closing price.
+* An RNN model based on LSTM was trained to predict KLSI daily closing price, using closing prices of previous 14 days.
 
 * **Actual vs. predicted closing price.**
 <img src="image/Screenshot%202021-01-26%20at%2013.46.16.png" width="400" />
@@ -16,6 +16,15 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 
 * Red points denote anomalies. In general, the model treats abnormally high closing prices and abrupt changes as anomalies.
 
+## [Clustering Analysis on Pokemon Based On Their Stats(R)]
+
+* Clustering analysis was performed on all 606 fully-evolved Pokemon from Generation 1-8, based on their stats. This would enable better-informed decisions on which Pokemon to choose to form a well-balanced team made up of 6 Pokemon.
+
+* The clustering analysis was based on 4 clusters. Pokemon can generally be classified into 1 of these 4 clusters, based on their stats: offensive, defensive, all-rounder, specially defensive.
+
+* **Clusters shown using 2 principal components that captured 50% of the variance.
+
+<img src = "image/Screenshot%202021-01-26%20at%2023.37.00.png" width="350" />
 
 ## [Analysing and Predicting Marvel Comic Character Network (Python)](https://github.com/jiajianwoo/marvel_network/blob/main/Marvel%20character%20network.ipynb)
 * Data containing network of characters who have appeared together was obtained from [http://syntagmatic.github.io/exposedata/marvel/](http://syntagmatic.github.io/exposedata/marvel/)
