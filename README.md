@@ -6,13 +6,13 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 * An RNN model based on LSTM was trained to predict KLSI daily closing price, using closing prices of previous 14 days.
 
 * **Actual vs. predicted closing price.**
-<img src="image/Screenshot%202021-01-26%20at%2013.46.16.png" width="400" />
+<img src="image/Screenshot%202021-01-26%20at%2013.46.16.png" width="500" />
 
 * Mean squared error is 1356.03. The model can capture and predict trends of the closing price quite accurately.
 
 * **Another model based on LSTM autoencoder was also trained to detect closing price anomalies.**
 
-<img src="image/Screenshot%202021-01-26%20at%2013.46.05.png" width="450" />
+<img src="image/Screenshot%202021-01-26%20at%2013.46.05.png" width="500" />
 
 * Red points denote anomalies. In general, the model treats abnormally high closing prices and abrupt changes as anomalies.
 
