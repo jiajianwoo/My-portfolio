@@ -18,7 +18,7 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 
 ## [Clustering Analysis on Pokemon Based On Their Stats (R)](https://rpubs.com/jiajianwoo95/717484)
 
-* Clustering analysis was performed on all 606 fully-evolved Pokemon from Generation 1-8, based on their stats. This would enable better-informed decisions on which Pokemon to choose to form a well-balanced team made up of 6 Pokemon. More info on Pokemon stats can be found here: [https://www.ign.com/wikis/pokemon-x-y/Base_Stats_and_Battle_Stats](https://www.ign.com/wikis/pokemon-x-y/Base_Stats_and_Battle_Stats)
+* Clustering analysis was performed on all 606 fully-evolved Pokemon from Generation 1-8, based on their stats. This would enable better-informed decisions on which Pokemon to choose to form a well-balanced team made up of 6 Pokemon. More info on Pokemon stats can be found here: [https://www.ign.com/wikis/pokemon-x-y/Base_Stats_and_Battle_Stats](https://www.ign.com/wikis/pokemon-x-y/Base_Stats_and_Battle_Stats).
 
 * The clustering analysis was based on 4 clusters. Pokemon can generally be classified into 1 of these 4 clusters, based on their stats: offensive, defensive, all-rounder, specially defensive.
 
