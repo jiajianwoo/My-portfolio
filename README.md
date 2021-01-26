@@ -8,7 +8,7 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 * **Actual vs. predicted closing price.**
 <img src="image/Screenshot%202021-01-26%20at%2013.46.16.png" width="400" />
 
-* Mean squared error is 1356.03.
+* Mean squared error is 1356.03. The model can capture and predict trends of the closing price quite accurately.
 
 * **Another model based on LSTM autoencoder was also trained to detect closing price anomalies.**
 <img src="image/Screenshot%202021-01-26%20at%2013.46.05.png" width="450" />
