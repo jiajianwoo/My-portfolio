@@ -6,10 +6,10 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 * An RNN model based on LSTM was trained to predict KLSI daily closing price.
 
 * **Actual vs. predicted closing price.**
-<img src="image/Screenshot%202021-01-26%20at%2013.29.35.png" width="500" />
+<img src="image/Screenshot%202021-01-26%20at%2013.29.35.png" width="400" />
 
 * **Another model based on LSTM autoencoder was also trained to detect anomaly on closing prices.**
-<img src="image/Screenshot%202021-01-26%20at%2013.30.26.png" width="400" />
+<img src="image/Screenshot%202021-01-26%20at%2013.30.26.png" width="450" />
 
 * Red points denote anomalies. The model treats abnormally high closing prices are anomalies.
 
