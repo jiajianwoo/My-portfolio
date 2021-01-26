@@ -2,6 +2,18 @@
 
 Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://public.tableau.com/profile/jia.jian.woo#!/)
 
+## [KLSI Closing Price Prediction and Anomaly Detection Using Deep Learning (Python)](https://github.com/jiajianwoo/LSTM-KLSI/blob/main/LSTM%20KLSI.ipynb)
+* An RNN model based on LSTM was trained to predict KLSI daily closing price.
+
+* **Actual vs. predicted closing price.**
+<img src="image/Screenshot%202021-01-26%20at%2013.29.35.png" width="500" />
+
+* Another model based on LSTM autoencoder was also trained to detect anomaly on closing prices.
+<img src="image/Screenshot%202021-01-26%20at%2013.30.26.png" width="500" />
+
+* Red points denote anomalies. The model treats abnormally high closing prices are anomalies.
+
+
 ## [Analysing and Predicting Marvel Comic Character Network (Python)](https://github.com/jiajianwoo/marvel_network/blob/main/Marvel%20character%20network.ipynb)
 * Data containing network of characters who have appeared together was obtained from [http://syntagmatic.github.io/exposedata/marvel/](http://syntagmatic.github.io/exposedata/marvel/)
 
