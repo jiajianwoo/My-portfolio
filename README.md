@@ -22,7 +22,7 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 
 * The clustering analysis was based on 4 clusters. Pokemon can generally be classified into 1 of these 4 clusters, based on their stats: offensive, defensive, all-rounder, specially defensive.
 
-* **Clusters shown using 2 principal components that captured 50% of the variance.
+* **Clusters shown using 2 principal components that captured 50% of the variance.**
 
 <img src = "image/Screenshot%202021-01-26%20at%2023.37.00.png" width="450" />
 
