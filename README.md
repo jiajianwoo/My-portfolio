@@ -2,14 +2,14 @@
 
 Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://public.tableau.com/profile/jia.jian.woo#!/)
 
-## [KLSI Closing Price Prediction and Anomaly Detection Using Deep Learning (Python)](https://github.com/jiajianwoo/LSTM-KLSI/blob/main/LSTM%20KLSI.ipynb)
+## [KLSE Closing Price Prediction and Anomaly Detection Using Deep Learning (Python)](https://github.com/jiajianwoo/LSTM-KLSI/blob/main/LSTM%20KLSE.ipynb)
 * An RNN model based on LSTM was trained to predict KLSI daily closing price.
 
 * **Actual vs. predicted closing price.**
-<img src="image/Screenshot%202021-01-26%20at%2013.29.35.png" width="400" />
+<img src="image/Screenshot%202021-01-26%20at%2013.46.16.png" width="400" />
 
 * **Another model based on LSTM autoencoder was also trained to detect anomaly on closing prices.**
-<img src="image/Screenshot%202021-01-26%20at%2013.30.26.png" width="450" />
+<img src="image/Screenshot%202021-01-26%20at%2013.46.05.png" width="450" />
 
 * Red points denote anomalies. The model treats abnormally high closing prices are anomalies.
 
