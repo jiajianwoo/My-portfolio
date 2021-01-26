@@ -11,6 +11,7 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 * Mean squared error is 1356.03. The model can capture and predict trends of the closing price quite accurately.
 
 * **Another model based on LSTM autoencoder was also trained to detect closing price anomalies.**
+
 <img src="image/Screenshot%202021-01-26%20at%2013.46.05.png" width="450" />
 
 * Red points denote anomalies. In general, the model treats abnormally high closing prices and abrupt changes as anomalies.
@@ -20,6 +21,7 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 * Data containing network of characters who have appeared together was obtained from [http://syntagmatic.github.io/exposedata/marvel/](http://syntagmatic.github.io/exposedata/marvel/)
 
 * **A small subset of the graph.**
+
 <img src="image/graph_sample-2.png" alt="drawing" width="500" />
 
 * **Distribution of number of characters each character has appeared together with.**
