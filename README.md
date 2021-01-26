@@ -11,7 +11,7 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 * **Another model based on LSTM autoencoder was also trained to detect anomaly on closing prices.**
 <img src="image/Screenshot%202021-01-26%20at%2013.46.05.png" width="450" />
 
-* Red points denote anomalies. The model treats abnormally high closing prices are anomalies.
+* Red points denote anomalies. In general, the model treats abnormally high closing prices and abrupt changes as anomalies.
 
 
 ## [Analysing and Predicting Marvel Comic Character Network (Python)](https://github.com/jiajianwoo/marvel_network/blob/main/Marvel%20character%20network.ipynb)
