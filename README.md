@@ -20,7 +20,7 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 
 * Dataset from Kaggle: [https://www.kaggle.com/c/quora-question-pairs/overview](https://www.kaggle.com/c/quora-question-pairs/overview)
 
-* The challenge was about given a pair of Quora questions, identify if they are asking the same question.
+* The challenge was, given a pair of Quora questions, identify if they are asking the same question.
 
 * A Siamese network with LSTM units was built for this NLP problem. The model uses GloVe embedding.
 
