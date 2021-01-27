@@ -16,6 +16,14 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 
 * Red points denote anomalies. In general, the model treats abnormally high closing prices and abrupt changes as anomalies.
 
+## [Identifying Quora Question Pairs That Have The Same Intent](https://github.com/jiajianwoo/quora-question/blob/main/QuoraQuestionPairs.ipynb)
+
+* Dataset from Kaggle: https://www.kaggle.com/c/quora-question-pairs/overview
+
+* The challenge was about given a pair of Quora questions, identify if they are asking the same question.
+
+* A Siamese network with LSTM units was built for this problem. The model uses GloVe embedding.
+
 ## [Clustering Analysis on Pokemon Based On Their Stats (R)](https://rpubs.com/jiajianwoo95/717484)
 
 * Clustering analysis was performed on all 606 fully-evolved Pokemon from Generation 1-8, based on their stats. This would enable better-informed decisions on which Pokemon to choose to form a well-balanced team made up of 6 Pokemon. More info on Pokemon stats can be found here: [https://www.ign.com/wikis/pokemon-x-y/Base_Stats_and_Battle_Stats](https://www.ign.com/wikis/pokemon-x-y/Base_Stats_and_Battle_Stats).
