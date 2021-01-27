@@ -16,13 +16,14 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 
 * Red points denote anomalies. In general, the model treats abnormally high closing prices and abrupt changes as anomalies.
 
-## [Identifying Quora Question Pairs That Have The Same Intent](https://github.com/jiajianwoo/quora-question/blob/main/QuoraQuestionPairs.ipynb)
+## [Identifying Quora Question Pairs That Have The Same Intent (Python)](https://github.com/jiajianwoo/quora-question/blob/main/QuoraQuestionPairs.ipynb)
 
 * Dataset from Kaggle: https://www.kaggle.com/c/quora-question-pairs/overview
 
 * The challenge was about given a pair of Quora questions, identify if they are asking the same question.
 
-* A Siamese network with LSTM units was built for this problem. The model uses GloVe embedding.
+* A Siamese network with LSTM units was built for this NLP problem. The model uses GloVe embedding.
+
 
 ## [Clustering Analysis on Pokemon Based On Their Stats (R)](https://rpubs.com/jiajianwoo95/717484)
 
