@@ -18,7 +18,7 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 
 ## [Identifying Quora Question Pairs That Have The Same Intent (Python)](https://github.com/jiajianwoo/quora-question/blob/main/QuoraQuestionPairs.ipynb)
 
-* Dataset from Kaggle: https://www.kaggle.com/c/quora-question-pairs/overview
+* Dataset from Kaggle: [https://www.kaggle.com/c/quora-question-pairs/overview](https://www.kaggle.com/c/quora-question-pairs/overview)
 
 * The challenge was about given a pair of Quora questions, identify if they are asking the same question.
 
