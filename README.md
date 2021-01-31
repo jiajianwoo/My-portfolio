@@ -30,7 +30,7 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 
 * A Bayesian logistic regression model was fit using rstanarm package in R.
 
-* **MCMC traceplots for some of the parameters (coefficients of logistic regression)**
+* **Markov chain Monte Carlo traceplots for some of the parameters (coefficients of logistic regression)**
 
 <img src = "image/Screenshot%202021-02-01%20at%2000.18.37.png" width="520" />
 
