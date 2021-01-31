@@ -46,6 +46,7 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 
 <img src = "image/Screenshot%202021-02-01%20at%2000.20.18.png" width="400" />
 
+In both train and test sets, customers are more likely to continue rather than leave the service, but retaining the customers who are more likely to cut ties is still important to maximise revenue.
 
 
 ## [Clustering Analysis on Pokemon Based On Their Stats (R)](https://rpubs.com/jiajianwoo95/717484)
