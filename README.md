@@ -32,15 +32,15 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 
 * **MCMC traceplots for some of the parameters (coefficients of logistic regression)**
 
-<img src = "image/Screenshot%202021-02-01%20at%2000.18.37.png" width="500" />
+<img src = "image/Screenshot%202021-02-01%20at%2000.18.37.png" width="520" />
 
 * **Posterior distribution of the churn probabilities for each customer in the train set**
 
-<img src = "image/Screenshot%202021-02-01%20at%2000.15.48.png" width="450" />
+<img src = "image/Screenshot%202021-02-01%20at%2000.15.48.png" width="480" />
 
 * **Average churn probability for each customer in the train set**
 
-<img src = "image/Screenshot%202021-02-01%20at%2000.16.56.png" width="450" />
+<img src = "image/Screenshot%202021-02-01%20at%2000.16.56.png" width="480" />
 
 * **The model was also used to predict churn rates for customers in a test set.**
 
