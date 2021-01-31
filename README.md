@@ -48,7 +48,7 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 
 In both train and test sets, customers are more likely to continue rather than leave the service, but retaining the customers who are more likely to cut ties is still important to maximise revenue.
 
-The frequentist approach only gives a single-point estimate of paramaters. The Bayesian approach can give posterior distributions for these parameters, which makes thinking about their uncertainties more intuitive.
+The frequentist approach only gives a single-point estimate for the paramaters. The Bayesian approach can give posterior distributions for these parameters, which makes thinking about their uncertainties more intuitive.
 
 
 ## [Clustering Analysis on Pokemon Based On Their Stats (R)](https://rpubs.com/jiajianwoo95/717484)
