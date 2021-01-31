@@ -24,6 +24,29 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 
 * A Siamese network with LSTM units was built for this NLP problem. The model uses GloVe embedding.
 
+## [Predicting Telco Customer Churn with a Bayesian approach (R)](https://rpubs.com/jiajianwoo95/719552)
+
+* Dataset from Kaggle: https://www.kaggle.com/blastchar/telco-customer-churn
+
+* A Bayesian logistic regression model was fit using rstanarm package in R.
+
+* **MCMC traceplots for some of the parameters (coefficients of logistic regression)**
+
+<img src = "image/Screenshot%202021-02-01%20at%2000.18.37.png" width="500" />
+
+* **Posterior distribution of the churn probabilities for each customer in the train set**
+
+<img src = "image/Screenshot%202021-02-01%20at%2000.16.56.png" width="400" />
+
+* **Average churn probability for each customer in the train set**
+
+<img src = "image/Screenshot%202021-02-01%20at%2000.15.48.png" width="400" />
+
+* **The model was also used to predict churn rates for customers in a test set.**
+
+<img src = "image/Screenshot%202021-02-01%20at%2000.20.18.png" width="400" />
+
+
 
 ## [Clustering Analysis on Pokemon Based On Their Stats (R)](https://rpubs.com/jiajianwoo95/717484)
 
