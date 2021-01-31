@@ -61,6 +61,7 @@ The frequentist approach only gives a single-point estimate for the paramaters. 
 
 <img src = "image/Screenshot%202021-01-26%20at%2023.37.00.png" width="550" />
 
+
 ## [Analysing and Predicting Marvel Comic Character Network (Python)](https://github.com/jiajianwoo/marvel_network/blob/main/Marvel%20character%20network.ipynb)
 * Data containing network of characters who have appeared together was obtained from [http://syntagmatic.github.io/exposedata/marvel/](http://syntagmatic.github.io/exposedata/marvel/)
 
@@ -76,7 +77,7 @@ The network seems to be not random and is likely to form following a preferentia
 The character with the highest degree (character who has appeared with other characters the most time) is Captain America. This is a subset of the Captain America subset of the graph:
 <img src="image/graph_captainamerica.png" alt="drawing" width="650" />
 
-A logistic regression and a neural network model was also built to try to predict new edge formation. This can tell us, for new characters, which character they will most likely to appear together with.
+A logistic regression and a neural network model was also built to try to predict new edge formation. This can tell us, for new characters, which character they are most likely to appear together with.
 
 
 
