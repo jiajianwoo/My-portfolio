@@ -36,15 +36,15 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 
 * **Posterior distribution of the churn probabilities for each customer in the train set**
 
-<img src = "image/Screenshot%202021-02-01%20at%2000.15.48.png" width="420" />
+<img src = "image/Screenshot%202021-02-01%20at%2000.15.48.png" width="450" />
 
 * **Average churn probability for each customer in the train set**
 
-<img src = "image/Screenshot%202021-02-01%20at%2000.16.56.png" width="420" />
+<img src = "image/Screenshot%202021-02-01%20at%2000.16.56.png" width="450" />
 
 * **The model was also used to predict churn rates for customers in a test set.**
 
-<img src = "image/Screenshot%202021-02-01%20at%2000.20.18.png" width="400" />
+<img src = "image/Screenshot%202021-02-01%20at%2000.20.18.png" width="430" />
 
 In both train and test sets, customers are more likely to continue rather than leave the service, but retaining the customers who are more likely to cut ties is still important to maximise revenue.
 
