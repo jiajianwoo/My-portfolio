@@ -24,32 +24,6 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 
 * A Siamese network with LSTM units was built for this NLP problem. The model uses GloVe embedding.
 
-## [Predicting Telco Customer Churn with a Bayesian approach (R)](https://rpubs.com/jiajianwoo95/719552)
-
-* Dataset from Kaggle: https://www.kaggle.com/blastchar/telco-customer-churn
-
-* A Bayesian logistic regression model was fit using rstanarm package in R.
-
-* **Markov chain Monte Carlo traceplots for some of the parameters (coefficients of logistic regression)**
-
-<img src = "image/Screenshot%202021-02-01%20at%2000.18.37.png" width="520" />
-
-* **Posterior distribution of the churn probabilities for each customer in the train set**
-
-<img src = "image/Screenshot%202021-02-01%20at%2000.15.48.png" width="480" />
-
-* **Average churn probability for each customer in the train set**
-
-<img src = "image/Screenshot%202021-02-01%20at%2000.16.56.png" width="480" />
-
-* **The model was also used to predict churn rates for customers in a test set.**
-
-<img src = "image/Screenshot%202021-02-01%20at%2000.20.18.png" width="430" />
-
-In both train and test sets, customers are more likely to continue rather than leave the service, but retaining the customers who are more likely to cut ties is still important to maximise revenue.
-
-The frequentist approach only gives a single-point estimate for the paramaters. The Bayesian approach can give posterior distributions for these parameters, which makes thinking about their uncertainties more intuitive.
-
 
 ## [Clustering Analysis on Pokemon Based On Their Stats (R)](https://rpubs.com/jiajianwoo95/717484)
 
