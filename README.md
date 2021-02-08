@@ -7,11 +7,11 @@ Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://pub
 
 * **The overall carbon emission from the U.S. electric power sector.**
 
-<img src="image/Screenshot%202021-02-08%20at%2021.01.21.png">
+<img src="image/Screenshot%202021-02-08%20at%2021.01.21.png" width="600" />
 
 * A SARIMA model was fitted on the data to forecast carbon emission from natural gas used by the U.S. electric power sector.
 
-<img src="image/Screenshot%202021-02-08%20at%2021.01.47.png">
+<img src="image/Screenshot%202021-02-08%20at%2021.01.47.png" width="600" >
 
 * The RMSE of this model is 3.647.
 
