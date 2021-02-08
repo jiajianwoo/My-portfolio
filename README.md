@@ -2,7 +2,7 @@
 
 Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://public.tableau.com/profile/jia.jian.woo#!/)
 
-## [Forecasting Natural Gas Carbon Emission from the U.S. Electric Power Sector](https://rpubs.com/jiajianwoo95/722986)
+## [Forecasting Natural Gas Carbon Emission from the U.S. Electric Power Sector (R)](https://rpubs.com/jiajianwoo95/722986)
 * This dataset is provided by the [Energy Information Administration (EIA)](https://www.eia.gov/electricity/data.php#elecenv) of the United States and contains data of the carbon emission of different fuel sources used by the American electric power sector from 1973 to 2018.
 
 * **The overall carbon emission from the U.S. electric power sector.**
