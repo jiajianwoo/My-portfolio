@@ -2,8 +2,22 @@
 
 Tableau Public: [https://public.tableau.com/profile/jia.jian.woo#!/](https://public.tableau.com/profile/jia.jian.woo#!/)
 
+## [Forecasting Natural Gas Carbon Emission from the U.S. Electric Power Sector](https://rpubs.com/jiajianwoo95/722986)
+* This dataset is provided by the [Energy Information Administration (EIA)](https://www.eia.gov/electricity/data.php#elecenv) of the United States and contains data of the carbon emission of different fuel sources used by the American electric power sector from 1973 to 2018.
+
+* **The overall carbon emission from the U.S. electric power sector.**
+
+<img src="image/Screenshot%202021-02-08%20at%2021.01.21.png">
+
+* A SARIMA model was fitted on the data to forecast carbon emission from natural gas used by the U.S. electric power sector.
+
+<img src="image/Screenshot%202021-02-08%20at%2021.01.47.png">
+
+* The RMSE of this model is 3.647.
+
+
 ## [KLSE Closing Price Prediction and Anomaly Detection Using Deep Learning (Python)](https://github.com/jiajianwoo/LSTM-KLSI/blob/main/LSTM%20KLSE.ipynb)
-* An RNN model based on LSTM was trained to predict KLSI daily closing price, using closing prices of previous 14 days.
+* An RNN model based on LSTM was trained to predict KLSE daily closing price, using closing prices from the previous 14 days.
 
 * **Actual vs. predicted closing price.**
 <img src="image/Screenshot%202021-01-26%20at%2013.46.16.png" width="600" />
